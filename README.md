@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismail-ai707
+- 👋 Hi, I’m @Ismail
 - 👀 I’m interested in AI in general and its application in Medical Robotics in particular
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Software Robotics-related projects 
