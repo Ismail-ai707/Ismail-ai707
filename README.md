@@ -10,7 +10,7 @@
    </p>
 </p>
 
-I'm an avid AI Enthusiast with a profound love for the realms of Data Science and Robotics. 🤖💻 Dive into [my portfolio](https://ismail-ai707.github.io/portfolio/), where I've sculpted a digital landscape reflecting my journey towards artificial intelligence.
+I'm an avid AI Enthusiast with a profound love for the realms of Data Science and Robotics. 🤖💻 Dive into [my portfolio](https://ismail-ai707.github.io/Myportfolio/), where I've sculpted a digital landscape reflecting my journey towards artificial intelligence.
 
 <p>
   <h3 align="justify"><b>🔍 What Awaits You:</h3>
