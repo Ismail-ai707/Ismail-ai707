@@ -44,6 +44,17 @@ I'm an avid AI Enthusiast with a profound love for the realms of Data Science an
 <a href="https://medium.com/@ismail707rhazi"><img src="https://img.shields.io/badge/medium-gray?style=social&logo=medium&logoColor=Rob" alt="Medium" /></a>&nbsp;
 <a href="https://www.kaggle.com/ismail707"><img src="https://img.shields.io/badge/kaggle-white?style=social&logo=kaggle&logoColor=rgb" alt="Kaggle" /></a>&nbsp;
 
+
+<p>
+  <a href="https://github.com/Ismail-ai707/CustomerSegmentation">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=CustomerSegmentation&theme=default" />
+  </a>
+  <a href="https://github.com/Ismail-ai707/Real_Estate_Market_Analysis">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=Real_Estate_Market_Analysis&theme=default" />
+  </a>
+</p>
+
+
 <h2 align="left">🧰 Languages and Tools</h2>
 
 ###
