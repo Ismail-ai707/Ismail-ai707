@@ -52,6 +52,9 @@ I'm an avid AI Enthusiast with a profound love for the realms of Data Science an
   <a href="https://github.com/Ismail-ai707/Real_Estate_Market_Analysis">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=Real_Estate_Market_Analysis&theme=default" />
   </a>
+  <a href="https://github.com/Ismail-ai707/ChangeCount_ComputerVision">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=ChangeCount_ComputerVision&theme=default" />
+  </a>
 </p>
 
 
