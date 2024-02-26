@@ -56,7 +56,7 @@ I'm an avid AI Enthusiast with a profound love for the realms of Data Science an
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=ChangeCount_ComputerVision&theme=default" />
   </a>
   <a href="https://github.com/Ismail-ai707/Recipe-Prediction-for-High-Traffic">
-    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=High Traffic Recipes Prediction&theme=default" />
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=High_Traffic_Recipes_Prediction&theme=default" />
   </a>
 </p>
 
