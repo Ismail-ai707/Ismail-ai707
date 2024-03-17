@@ -58,6 +58,9 @@ I'm an avid AI Enthusiast with a profound love for the realms of Data Science an
   <a href="https://github.com/Ismail-ai707/Recipe-Prediction-for-High-Traffic">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=Recipe-Prediction-for-High-Traffic&theme=default" />
   </a>
+    <a href="https://github.com/Ismail-ai707/Music_Genre_Prediction">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Ismail-ai707&repo=Music_Genre_Prediction&theme=default" />
+  </a>
 </p>
 
 
